@@ -70,4 +70,3 @@ namespace ConsoleTestApp.StateKata
         public int Damage => State.Damage;
     }
 }
-(
