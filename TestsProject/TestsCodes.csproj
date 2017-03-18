@@ -64,6 +64,7 @@
     <Compile Include="DecoratorKataTest.cs" />
     <Compile Include="StrategyKataTest.cs" />
     <Compile Include="StateKataTest.cs" />
+    <Compile Include="CarTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ConsoleTestApp\Codes.csproj">
